@@ -2,12 +2,13 @@
 Project Name: The Maze to Test Human Spatial Abilities 
 
 Trailer Video: 
+https://youtu.be/otTMwT5FkCA
 
 APK:
 Too big for git, follow link
 https://drive.google.com/file/d/1L0WL4LWiQCLY9OgEI7ff4lbZKpvUzE-L/view?usp=sharing
 
-Summary:
+Project description:
 Much of spatial navigation and spatial memory research hinges on the use of mouse models. While mouse models provide an easy way for researchers to investigate the role of various brain regions in navigation, they produce an incomplete picture for how navigation works in humans. One of the many benefits of performing research with human subjects is that humans are able to report their experience and explain their decision making process. However, extensive spatial studies on humans cannot be conducted due to the cost of designing environments for the studies. Virtual Reality solves this problem. Here, we use the relatively low budget and the short timeframe we have to design a maze meant to test human navigational abilities. In addition, we can test how a human's navigational abilities are affected by a neutral or stressful situation by manipulating various aspects of the environment. 
 
 There are a lot of potential research applications to the VR program. For one, it can be manipulated to test more experimental conditions, like changing the walls of the maze into buildings of a city to test the human’s ability to recognize landmarks. Researchers may also use the VR headset in conjunction with an electroencephalogram (EEG) to record the brain activity when navigating in specific parts of the maze. A future direction for this program would be a way to customize the environment while being inside of the program, and a way to track the path of the participant walking inside of the maze. 
